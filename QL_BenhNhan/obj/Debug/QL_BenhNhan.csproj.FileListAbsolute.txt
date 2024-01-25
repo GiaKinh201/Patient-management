@@ -1,0 +1,16 @@
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.csprojAssemblyReference.cache
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.Properties.Resources.resources
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.csproj.GenerateResource.cache
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.csproj.CoreCompileInputs.cache
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\bin\Debug\SQL_BenhNhan.mdf
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\bin\Debug\SQL_BenhNhan_log.ldf
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\bin\Debug\QL_BenhNhan.exe.config
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\bin\Debug\QL_BenhNhan.exe
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\bin\Debug\QL_BenhNhan.pdb
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.exe
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.pdb
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.GUI.Frm_BenhNhan.resources
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.GUI.Frm_DangNhap.resources
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.GUI.Frm_TrangChu.resources
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.GUI.Frm_BacSi.resources
+E:\DoAnCaNhan\QL_BenhNhan\QL_BenhNhan\obj\Debug\QL_BenhNhan.GUI.Frm_DangKy.resources
